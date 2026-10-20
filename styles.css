@@ -11,3 +11,16 @@ h1{
 h2{
     color: rgb(142, 96, 183);
 }
+#sobre-mi {
+    background-color: #efe5ed;
+    border: 1px solid #470055;
+    padding: 50px;
+    border-radius: 30px;
+}
+#contacto a {
+    color: rgb(10, 91, 4); 
+    font-family: arial, sans-serif; 
+    font-size: 14px;               
+    font-style: italic;          
+    display: inline-block;         
+}
